@@ -132,9 +132,11 @@ h1{
     }
     .div3 {
         width: 100%;
+        padding: 10px;
     }
     .div2 {
         width: 100%;
+        padding: 25px;
     }
     .afrodita{
         display: none;
